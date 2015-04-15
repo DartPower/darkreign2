@@ -1,8 +1,8 @@
--Source code has been aquired thanks to an Ex-Developer of Activision
+- Source code has been aquired thanks to an Ex-Developer of Activision
 
--Game needs to be "revived" and fixed
+- Game needs to be "revived" and fixed
 
--You can download the compiled game from the source tab > full_game.
+- You can download the compiled game from the source tab > full_game.
 
 #Notes:
 To compile the project SRC you will need Visual C++ 6.0 (SP1)
