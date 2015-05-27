@@ -11,3 +11,5 @@ Please check this out to see how to get it working on windows 7: http://superuse
 If any serial is ever needed, use the developer serial (shouldn't be needed though): GAD6-TEB4-CUP9-PAP6-5529
 
 Please use HJSplit or any other file splitter/joiner in order to join all RAR parts inside full_game folder: http://www.hjsplit.org/
+
+Users with FPS problems: https://sites.google.com/site/utachargentina/ddraw-to-opengl
